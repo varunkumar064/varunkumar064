@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your_github_id" width="140" style="border-radius:50%;" />
+  <img src="https://avatars.githubusercontent.com/varunkumar064" width="140" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Varun Kumar</h1>
 
-
-<h1 align="center"> Hi, I'm Varun Kumar N </h1>
 
 <h3 align="center">🔐 Cybersecurity Analyst | 🌐 Front-End Developer | 🎓 AIML Graduate </h3>
 
