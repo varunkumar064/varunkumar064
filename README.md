@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Varun Kumar N</h1>
+<h3 align="center">🎓 **AIML Graduate** | 🔐 **Cybersecurity Student** | 🌐 **Front-End Developer** </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=0EF7FF&center=true&vCenter=true&width=750&lines=Cybersecurity+Student+%7C+SOC+Analyst+Fresher;Ethical+Hacking+%7C+Defensive+Security;CTF+Player+%7C+Home+Lab+Practitioner;AIML+Graduate+with+Security+Mindset" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=0EF7FF&center=true&vCenter=true&width=750&lines=Cybersecurity+Analyst+%7C+SOC+Analyst+Fresher;Ethical+Hacking+%7C+Defensive+Security;CTF+Player+%7C+Home+Lab+Practitioner;AIML+Graduate+with+Security+Mindset" />
 </p>
 
 ---
