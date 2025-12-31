@@ -78,8 +78,24 @@ I am a **Cybersecurity-focused professional** with hands-on exposure to **offens
 
 ---
 
+## 📜 Certifications & Learning
+- TryHackMe – CTF & SOC-oriented labs, Advent of cyber 2025
+- Ethical Hacking Training (Offensive + Defensive)
+- A-Z Ethical Hacking Training (HackerSchool - onebytelabs)  
+- Foundations of Cybersecurity (Google – Coursera)  
+- Introduction to Bug Bounty (Red Team Leaders)
+
+---
+
 ## 🎯 Career Objective 
 
-Seeking an **entry-level Cybersecurity / SOC Analyst role** where I can apply hands-on experience in **threat detection, vulnerability analysis, log monitoring, incident response**, and continuously grow as a security professional.
+Aspiring **Cybersecurity Analyst / SOC Analyst (Fresher)** seeking an entry-level role to apply hands-on knowledge in **threat detection, vulnerability analysis, incident response, and system security**, while continuously learning and contributing to organizational security.
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/varun-kumar-n-376787330/  
+- 📧 Email: varungowda064@gmail.com
+- ⏩️ Tryhackme: EnGin
 
 ---
