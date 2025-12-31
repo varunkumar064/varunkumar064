@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/varunkumar064" width="140" />
+  <img src="https://avatars.githubusercontent.com/varunkumar064" width="180" />
 </p>
 
 <h1 align="center">Hi, I'm Varun Kumar</h1>
