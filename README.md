@@ -68,26 +68,15 @@ I am a **Cybersecurity student** with hands-on experience in **offensive and def
 
 ---
 
-## 📊 GitHub Stats (Security Journey)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varunkumar064&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunkumar064&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🎯 Career Objective (ATS-Friendly)
+## 🎯 Career Objective
 
 Aspiring **Cybersecurity Analyst / SOC Analyst (Fresher)** seeking an entry-level role to apply hands-on knowledge in **threat detection, vulnerability analysis, incident response, and system security**, while continuously learning and contributing to organizational security.
 
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: *(Add your LinkedIn profile link here)*  
-- 📧 Email: *(Optional)*  
+- 💼 LinkedIn: https://www.linkedin.com/in/varun-kumar-n-376787330/ 
+- 📧 Email: varungowda064@gmail.com
 
 ---
 
