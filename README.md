@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Varun Kumar N</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/security/security.png" width="40" />
+  Hi 👋, I'm Varun Kumar N
+</h1>
+
 <h3 align="center">🔐 Cybersecurity Analyst | 🌐 Front-End Developer | 🎓 AIML Graduate </h3>
 
 <p align="center">
