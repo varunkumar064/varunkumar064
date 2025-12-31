@@ -54,17 +54,8 @@ I am a **Cybersecurity-focused professional** with hands-on exposure to **offens
   - Kali Linux attacker machine  
   - Vulnerable machines (Metasploitable, DC series, Kioptrix, etc.)
   - Exploitation & privilege escalation practice  
-- 🔐 **Cybersecurity Quiz Web App** – Awareness & learning-focused project  
-
----
-
-### AI Tools & Libraries
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-yellow?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-lightblue?style=for-the-badge)
+- 🔐 **Cybersecurity Quiz Web App** – Awareness & learning-focused project
+- ☄️ **Web based CTF jet4lag** – Practiacl CTF challenge with Cryptography, stegnography and Hidden directory. Hosted on Cloudflare through nginx.
 
 ---
 
