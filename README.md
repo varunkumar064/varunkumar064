@@ -1,83 +1,87 @@
 <h1 align="center">Hi 👋, I'm Varun Kumar N</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=0EF7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Ethical+Hacker+%7C+Blue+Team+Learner;CTF+Player+%7C+Home+Lab+Practitioner;Aspiring+SOC+Analyst+%7C+Security+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=0EF7FF&center=true&vCenter=true&width=750&lines=Cybersecurity+Student+%7C+SOC+Analyst+Fresher;Ethical+Hacking+%7C+Defensive+Security;CTF+Player+%7C+Home+Lab+Practitioner;AIML+Graduate+with+Security+Mindset" />
 </p>
 
 ---
 
-## 🛡️ About Me (Cybersecurity Focused)
+## 🛡️ Cybersecurity Profile Summary
 
-I am a **Cybersecurity student** with hands-on experience in **offensive and defensive security**, focused on understanding real-world attacks, detection techniques, and system hardening. I actively practice through **CTFs, home labs, and security projects**, aiming for **entry-level SOC / Cybersecurity Analyst roles**.
+I am a **Cybersecurity-focused professional** with hands-on exposure to **offensive and defensive security**, supported by an **AIML academic background** and **front-end development skills**. I actively practice through **CTFs, home labs, and security projects**, and I am targeting **entry-level SOC / Cybersecurity Analyst roles**.
 
-- 🔐 Strong interest in **Cyber Defense & Threat Analysis**
-- 🧪 Practical experience with **CTFs & vulnerable lab environments**
-- 🖥️ Comfortable working in **Linux-based security systems**
-- 🚀 Actively building skills for **SOC Analyst / Cybersecurity Fresher roles**
+- 🔐 Core focus: **Cyber Defense, Threat Detection & Vulnerability Analysis**
+- 🧪 Practical exposure through **CTFs & vulnerable lab environments**
+- 🧠 AIML background supporting **analytical & detection-oriented thinking**
+- 🌐 Frontend knowledge for **security-aware application development**
 
 ---
 
-## 🧠 Cybersecurity Skills
+## 🔐 Cybersecurity Skills (Primary)
 
 ### 🔴 Offensive Security
-- Ethical Hacking Fundamentals  
-- Web Application Security (OWASP Top 10)  
-- Vulnerability Assessment & Exploitation Basics  
-- Information Gathering & Reconnaissance  
+![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-red?style=for-the-badge)
+![Web Security](https://img.shields.io/badge/Web%20Security-orange?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-yellow?style=for-the-badge)
+![Recon](https://img.shields.io/badge/Reconnaissance-blue?style=for-the-badge)
 
-**Tools:**  
-`Nmap` · `Burp Suite` · `Metasploit` · `Nikto`
+**Tools**
+![Nmap](https://img.shields.io/badge/Nmap-darkgreen?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-blueviolet?style=for-the-badge)
+![Nikto](https://img.shields.io/badge/Nikto-lightgrey?style=for-the-badge)
 
 ---
 
 ### 🔵 Defensive Security
-- SOC Fundamentals  
-- Log Analysis & Incident Awareness  
-- Network Traffic Analysis  
-- Threat Detection Basics  
+![SOC](https://img.shields.io/badge/SOC%20Fundamentals-blue?style=for-the-badge)
+![Log Analysis](https://img.shields.io/badge/Log%20Analysis-green?style=for-the-badge)
+![Incident Response](https://img.shields.io/badge/Incident%20Response-red?style=for-the-badge)
+![Network Traffic](https://img.shields.io/badge/Network%20Traffic%20Analysis-purple?style=for-the-badge)
 
-**Tools:**  
-`Wireshark` · `Splunk (Basics)` · `Linux CLI`
-
----
-
-### 🖥️ Systems & Platforms
-- Kali Linux / Parrot OS  
-- VirtualBox (Home Lab Setup)  
-- Git & GitHub  
+**Tools**
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge)
+![Splunk](https://img.shields.io/badge/Splunk-black?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-grey?style=for-the-badge)
 
 ---
 
-## 🧪 Hands-On Practice & Labs
+## 🧪 Hands-On Labs & Practice
 
-- 🧠 **CTF Challenges** – Solved multiple challenges on platforms like TryHackMe  
-- 🧪 **Home Lab Environment**  
+- 🧠 **CTF Challenges** – TryHackMe & other platforms  
+- 🧪 **Home Lab Setup**
   - Kali Linux attacker machine  
-  - Vulnerable machines (Metasploitable, DC series, Kioptrix, etc.)  
-  - Practiced exploitation & privilege escalation  
-- 🔐 **Cybersecurity Quiz Web App**  
-  - Created a security-focused quiz platform for awareness & learning  
+  - Vulnerable machines (Metasploitable, DC series, Kioptrix, etc.)
+  - Exploitation & privilege escalation practice  
+- 🔐 **Cybersecurity Quiz Web App** – Awareness & learning-focused project  
 
 ---
 
-## 📜 Certifications & Learning
-- TryHackMe – CTF & SOC-oriented labs  
-- Ethical Hacking Training (Offensive + Defensive)  
-- Foundations of Cybersecurity (Google – Coursera)  
-- AIML Degree (supports analytical & problem-solving skills)
+### AI Tools & Libraries
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-yellow?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-lightblue?style=for-the-badge)
 
 ---
 
-## 🎯 Career Objective
+## 🌐 Front-End Development
 
-Aspiring **Cybersecurity Analyst / SOC Analyst (Fresher)** seeking an entry-level role to apply hands-on knowledge in **threat detection, vulnerability analysis, incident response, and system security**, while continuously learning and contributing to organizational security.
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+
+- Responsive UI Design  
+- Security-aware Frontend Practices  
+- Basic Client-side Validation  
+- UI for Cybersecurity Tools & Dashboards
 
 ---
 
-## 🌐 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/varun-kumar-n-376787330/ 
-- 📧 Email: varungowda064@gmail.com
+## 🎯 Career Objective 
+
+Seeking an **entry-level Cybersecurity / SOC Analyst role** where I can apply hands-on experience in **threat detection, vulnerability analysis, log monitoring, incident response**, and continuously grow as a security professional.
 
 ---
-
-⭐ *Focused on defending systems, detecting threats, and growing as a cybersecurity professional.*
