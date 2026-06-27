@@ -1,101 +1,230 @@
+# <div align="center">👋 Hi, I'm **Varun Kumar N**</div>
+
+<div align="center">
+
+### 🛡️ SOC Analyst | Blue Team | Threat Detection | Incident Response | Python
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=800&color=00FF9C&center=true&vCenter=true&width=900&lines=SOC+Analyst+%7C+Blue+Team+Enthusiast;Threat+Detection+%7C+Incident+Response;SIEM+%7C+Splunk+%7C+Python+Automation;Log+Analysis+%7C+Threat+Intelligence;Always+Learning+Always+Improving" />
+
+</div>
+
+---
+
+# 🛡️ About Me
+
+I'm an aspiring **Security Operations Center (SOC) Analyst** passionate about defending organizations against cyber threats.
+
+I enjoy investigating security events, analyzing logs, automating repetitive tasks with Python, and building projects that simulate real-world SOC workflows.
+
+My learning is driven by hands-on labs, home lab environments, CTFs, malware analysis, SIEM platforms, and continuous cybersecurity research.
+
+---
+
+# 🎯 Career Goal
+
+To begin my career as a **SOC Analyst**, contributing to threat detection, incident response, and continuous security monitoring while constantly expanding my Blue Team expertise.
+
+---
+
+# ⚡ Technical Skills
+
+## 🔵 Blue Team
+
+* Security Monitoring
+* Log Analysis
+* Incident Response
+* Alert Triage
+* Threat Hunting
+* Threat Intelligence
+* IOC Analysis
+* Malware Analysis
+* Email Security
+* Network Security
+* Windows Security
+* Linux Security
+* MITRE ATT&CK
+* Cyber Kill Chain
+
+---
+
+## 💻 Programming
+
+* Python
+* Bash
+* SQL
+* HTML
+* CSS
+* JavaScript
+
+---
+
+## 🛠️ Security Tools
+
+* Splunk
+* Wireshark
+* Nmap
+* Burp Suite
+* Metasploit
+* Linux
+* Kali Linux
+* VirtualBox
+* REMnux
+
+---
+
+# 🚀 Featured Projects
+
+## 🛡️ ThreatLens
+
+A SOC-inspired Threat Intelligence Dashboard built using Python and Flask.
+
+**Features**
+
+* IOC Search
+* Threat Intelligence
+* Security Dashboard
+* Reports
+* Alerts
+* MITRE Mapping
+* Modern SOC Interface
+
+---
+
+## 📧 SOC Email & Malware Analysis Toolkit
+
+Python toolkit for investigating suspicious emails.
+
+Includes:
+
+* Header Analysis
+* URL Extraction
+* Attachment Analysis
+* IOC Detection
+* Hash Generation
+* Report Generation
+
+---
+
+## 🔍 Brute Force Detection System
+
+Detects brute-force authentication attempts from system logs using Python.
+
+---
+
+## 🌐 Cybersecurity Awareness & CTF Platform
+
+Interactive cybersecurity learning platform featuring:
+
+* Hidden directories
+* Cryptography
+* Steganography
+* Web challenges
+* Beginner-friendly CTF exercises
+
+---
+
+# 🧪 Home Lab
+
+Current lab includes:
+
+* Kali Linux
+* REMnux
+* Windows
+* Vulnerable Machines
+* Splunk
+* Wireshark
+* Active Directory Practice
+* Malware Analysis Environment
+
+---
+
+# 🏆 Certifications
+
+* EC-Council Certified SOC Analyst (CSA v2)
+* Google Foundations of Cybersecurity
+* Certified Social Engineering Defense Practitioner (CSEDP)
+* Certified Bug Bounty Tester Professional (CBTP)
+* TryHackMe Advent of Cyber 2025
+* Ethical Hacking Training
+* Introduction to Bug Bounty
+
+---
+
+# 🎮 Hands-on Practice
+
+* TryHackMe
+* Home Lab
+* SOC Simulations
+* Blue Team Exercises
+* Log Analysis
+* Malware Analysis
+* CTF Challenges
+* Vulnerability Assessment Labs
+
+---
+
+# 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/varunkumar064" width="180" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=varunkumar064&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunkumar064&layout=compact&theme=tokyonight"/>
+
 </p>
 
-<h1 align="center">Hi, I'm Varun Kumar N</h1>
+---
 
-
-<h3 align="center">🔐 Cybersecurity Analyst | 🌐 Front-End Developer | 🎓 AIML Graduate </h3>
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=0EF7FF&center=true&vCenter=true&width=750&lines=Cybersecurity+Analyst+%7C+SOC+Analyst+Fresher;Ethical+Hacking+%7C+Defensive+Security;CTF+Player+%7C+Home+Lab+Practitioner;AIML+Graduate+with+Security+Mindset" />
+
+<img src="https://streak-stats.demolab.com/?user=varunkumar064&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🛡️ Cybersecurity Profile Summary
+# 🐍 Contribution Snake
 
-I am a **Cybersecurity-focused professional** with hands-on exposure to **offensive and defensive security**, supported by an **AIML academic background** and **front-end development skills**. I actively practice through **CTFs, home labs, and security projects**, and I am targeting **entry-level SOC / Cybersecurity Analyst roles**.
+<p align="center">
 
-- 🔐 Core focus: **Cyber Defense, Threat Detection & Vulnerability Analysis**
-- 🧪 Practical exposure through **CTFs & vulnerable lab environments**
-- 🧠 AIML background supporting **analytical & detection-oriented thinking**
-- 🌐 Frontend knowledge for **security-aware application development**
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
----
-
-## 🔐 Cybersecurity Skills (Primary)
-
-### 🔴 Offensive Security
-![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-red?style=for-the-badge)
-![Web Security](https://img.shields.io/badge/Web%20Security-orange?style=for-the-badge)
-![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-yellow?style=for-the-badge)
-![Recon](https://img.shields.io/badge/Reconnaissance-blue?style=for-the-badge)
-
-**Tools**
-![Nmap](https://img.shields.io/badge/Nmap-darkgreen?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-blueviolet?style=for-the-badge)
-![Nikto](https://img.shields.io/badge/Nikto-lightgrey?style=for-the-badge)
+</p>
 
 ---
 
-### 🔵 Defensive Security
-![SOC](https://img.shields.io/badge/SOC%20Fundamentals-blue?style=for-the-badge)
-![Log Analysis](https://img.shields.io/badge/Log%20Analysis-green?style=for-the-badge)
-![Incident Response](https://img.shields.io/badge/Incident%20Response-red?style=for-the-badge)
-![Network Traffic](https://img.shields.io/badge/Network%20Traffic%20Analysis-purple?style=for-the-badge)
+# 📚 Currently Learning
 
-**Tools**
-![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge)
-![Splunk](https://img.shields.io/badge/Splunk-black?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-grey?style=for-the-badge)
-
----
-
-## 🧪 Hands-On Labs & Practice
-
-- 🧠 **CTF Challenges** – TryHackMe & other platforms  
-- 🧪 **Home Lab Setup**
-  - Kali Linux attacker machine  
-  - Vulnerable machines (Metasploitable, DC series, Kioptrix, etc.)
-  - Exploitation & privilege escalation practice  
-- 🔐 **Cybersecurity Quiz Web App** – Awareness & learning-focused project
-- ☄️ **Web based CTF jet4lag** – Practiacl CTF challenge with Cryptography, stegnography and Hidden directory. Hosted on Cloudflare through nginx.
+* Threat Hunting
+* Detection Engineering
+* Sigma Rules
+* YARA Rules
+* Splunk SPL
+* Windows Event Logs
+* Microsoft Sentinel
+* DFIR Fundamentals
+* Malware Analysis
+* Active Directory Security
 
 ---
 
-## 🌐 Front-End Development
+# 🤝 Connect With Me
 
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+💼 LinkedIn
+**[www.linkedin.com/in/varunkumarn-/](http://www.linkedin.com/in/varunkumarn-/)**
 
-- Responsive UI Design  
-- Security-aware Frontend Practices  
-- Basic Client-side Validation  
-- UI for Cybersecurity Tools & Dashboards
+📧 Email
+**[varunkumarn008@gmail.com](mailto:varunkumarn008@gmail.com)**
 
----
-
-## 📜 Certifications & Learning
-- TryHackMe – CTF & SOC-oriented labs, Advent of cyber 2025
-- Ethical Hacking Training (Offensive + Defensive)
-- A-Z Ethical Hacking Training (HackerSchool - onebytelabs)  
-- Foundations of Cybersecurity (Google – Coursera)  
-- Introduction to Bug Bounty (Red Team Leaders)
+🎯 TryHackMe
+**EnGin**
 
 ---
 
-## 🎯 Career Objective 
+<div align="center">
 
-Aspiring **Cybersecurity Analyst / SOC Analyst (Fresher)** seeking an entry-level role to apply hands-on knowledge in **threat detection, vulnerability analysis, incident response, and system security**, while continuously learning and contributing to organizational security.
+### ⚡ "Every alert tells a story. My job is to uncover the truth behind it."
 
----
-
-## 🌐 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/varun-kumar-n-376787330/  
-- 📧 Email: varungowda064@gmail.com
-- ⏩️ Tryhackme: EnGin
-
----
+</div>
